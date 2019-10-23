@@ -1,0 +1,16 @@
+inherit_gem:
+  rubocop-config-prettier: config/rubocop.yml
+Metrics:
+  Enabled: false
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Style/ClassAndModuleChildren:
+  Enabled: false
+Style/MultilineBlockChain:
+  Enabled: false
+Naming/AccessorMethodName:
+  Enabled: false
+Style/DoubleNegation:
+  Enabled: false
