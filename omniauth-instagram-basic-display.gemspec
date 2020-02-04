@@ -1,5 +1,5 @@
 $LOAD_PATH.push File.expand_path("lib", __dir__)
-require "omniauth/instagram_basic_display/version"
+require "omniauth/instagram-basic-display/version"
 
 Gem::Specification.new do |s|
   s.name = "omniauth-instagram-basic-display"
